@@ -1,0 +1,46 @@
+
+NEW BOOKING
+
+Name :abhishek
+Age :12
+Mobile :2793
+Email :abshi
+Number Of Persons :3
+Package: Golden Package
+Hotel Name: Hyatt Palace
+Check In: 2315900
+Check Out: 231400
+Flight: Indigo
+Date: 231099
+From: new
+To: bangalore
+Departure Time: 11:00
+Arrival Time: 15:25
+Total Price: Rs.42300
+
+
+
+
+
+NEW BOOKING
+
+Name :abhi
+Age :23
+Mobile :4575868
+Email :eeryt
+Number Of Persons :2
+Package: Premium Package
+Hotel Name: Hilton Hotels
+Check In: 222222
+Check Out: 223343
+Flight: Indigo
+Date: 23122018
+From: delhi
+To: bombay
+Departure Time: 11:00
+Arrival Time: 15:25
+Total Price: Rs.29500
+
+
+
+
